@@ -1,0 +1,4 @@
+absl-py==1.4.0
+google-cloud-logging==3.10.0
+grpcio-status==1.37.0
+tensorflow==2.16.1
